@@ -8,7 +8,7 @@ A Passionate Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ayanxkhan12@gmail.com](mailto:ayanxkhan12@gmail.com)
-* 🧠  I'm learning MERN
+* 🧠  I'm learning MERN and JAVA
 * 🤝  I'm open to collaborating on Projects
 
 
